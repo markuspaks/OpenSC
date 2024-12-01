@@ -47,7 +47,7 @@ static const struct sc_atr_table starcos_atrs[] = {
 	{ "3B:D0:97:FF:81:B1:FE:45:1F:07:2B", NULL, NULL, SC_CARD_TYPE_STARCOS_V3_4, 0, NULL },
 	{ "3B:D0:96:FF:81:B1:FE:45:1F:07:2A", NULL, NULL, SC_CARD_TYPE_STARCOS_V3_4, 0, NULL },
 	{ "3b:df:96:ff:81:31:fe:45:80:5b:44:45:2e:42:41:5f:53:43:33:35:32:81:05:b5", NULL, NULL, SC_CARD_TYPE_STARCOS_V3_5_ESIGN, 0, NULL },
-	{ "3b:da:96:ff:81:b1:fe:45:1f:07:80:58:49:43:41:20:56:32:2e:30:e9", NULL, NULL, SC_CARD_TYPE_STARCOS_V3_5_ESIGN, 0, NULL },
+	{ "3b:da:96:ff:81:b1:fe:45:1f:07:80:58:49:43:41:20:56:32:2e:30:e9", NULL, NULL, SC_CARD_TYPE_STARCOS_V3_5, 0, NULL },
 	{ NULL, NULL, NULL, 0, 0, NULL }
 };
 // clang-format on
